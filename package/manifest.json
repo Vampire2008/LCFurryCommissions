@@ -1,0 +1,10 @@
+{
+    "name": "LCFurryCommissions",
+    "author": "KainStropov",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Personal collection of custom paintings for my friends",
+    "dependencies": [
+        "Boniato-CustomPaintings-2.0.0"
+    ]
+}
