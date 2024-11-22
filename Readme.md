@@ -7,6 +7,10 @@ In out friends company we have a joke that all paintings is furry commisions. No
 
 Required mod [CustomPainting](https://thunderstore.io/c/lethal-company/p/Boniato/CustomPaintings/).
 
+## Thunderstore link
+
+<https://thunderstore.io/c/lethal-company/p/Citizen17/LCFurryCommissions/>
+
 ## Add more paintings
 
 You will need [Paint.net](https://www.getpaint.net) software.

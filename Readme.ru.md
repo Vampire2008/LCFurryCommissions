@@ -7,6 +7,10 @@
 
 Требуется мод [CustomPainting](https://thunderstore.io/c/lethal-company/p/Boniato/CustomPaintings/).
 
+## Ссылка на Thunderstore
+
+<https://thunderstore.io/c/lethal-company/p/Citizen17/LCFurryCommissions/>
+
 ## Добавить больше картин
 
 Вам понадобится программа [Paint.net](https://www.getpaint.net).
